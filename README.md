@@ -1,5 +1,6 @@
-<h1 align="center">This Is an Java Project Using File Very Helpfull For Taking Attendance😊</h1><hr>
+<h1 align="center">This Is an Java Project Using File Very Helpfull For Taking Attendance😊</h1>
 <img src="https://cdn.discordapp.com/attachments/1218596824630296778/1228547523103428678/Screenshot_2024-04-02_142036.png?ex=662c710a&is=6619fc0a&hm=2d72157e4372e9f504e695352cc25bf6a086b5af7f63434b6d54ff1ca77a0837&" align="Center" alt="Demo Pic" width="700" height="800">
+<hr>
 <br><br>
 <h1 align="center">Hi 👋, I'm Meet Shah ×͜ × 😙🤞😏😏😏</h1>
 <h3 align="center">I am Programmer who loves coding and have Fun.</h3>
